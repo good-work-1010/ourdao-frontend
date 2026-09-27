@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/p1-007-contract-loan-terms",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/p1-007-contract-loan-terms": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/p1-007-contract-loan-terms",
+    "origin"
+  ]
+}
